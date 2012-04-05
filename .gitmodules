@@ -16,3 +16,6 @@
 [submodule "bundle/MRU"]
 	path = bundle/MRU
 	url = http://github.com/vim-scripts/mru.vim.git
+[submodule "bundle/tcomment"]
+	path = bundle/tcomment
+	url = http://github.com/tomtom/tcomment_vim.git
