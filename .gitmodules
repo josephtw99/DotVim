@@ -7,3 +7,6 @@
 [submodule "bundle/snipmate"]
 	path = bundle/snipmate
 	url = http://github.com/msanders/snipmate.vim.git
+[submodule "bundle/dbext"]
+	path = bundle/dbext
+	url = http://github.com/zklinger/dbext.git
